@@ -88,3 +88,24 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/java,macos,gradle
+
+# IntelliJ IDEA 설정 폴더 무시
+/.idea/
+
+/bin/
+/out/
+/.name
+/compiler.xml
+/gradle.xml
+/misc.xml
+/springboot_mybatis_board.iml
+/vcs.xml
+/workspace.xml
+/dataSources/8bd03bfe-0f1d-4090-bec0-bd711756ac34.xml
+/dataSources.local.xml
+/dataSources.xml
+/dataSources/8bd03bfe-0f1d-4090-bec0-bd711756ac34/storage_v2/_src_/schema/information_schema.FNRwLQ.meta
+/dataSources/8bd03bfe-0f1d-4090-bec0-bd711756ac34/storage_v2/_src_/schema/mysql.osA4Bg.meta
+/dataSources/8bd03bfe-0f1d-4090-bec0-bd711756ac34/storage_v2/_src_/schema/performance_schema.kIw0nw.meta
+/dataSources/8bd03bfe-0f1d-4090-bec0-bd711756ac34/storage_v2/_src_/schema/springboot.f24xUQ.meta
+/dataSources/8bd03bfe-0f1d-4090-bec0-bd711756ac34/storage_v2/_src_/schema/sys.zb4BAA.meta
